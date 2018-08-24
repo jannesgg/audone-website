@@ -1,0 +1,29 @@
+<manifest alg="2" build="6" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1425227730806">
+  <folder name="css">
+    <file name="site_global.css" crc="145385794"/>
+    <file name="index.css" crc="310788696" ref="index"/>
+    <file name="iefonts_index.css" crc="8783808" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index"/>
+    <file name="museutils.js" crc="4136605575" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4183300935" ref="index"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="420478120" ref="index"/>
+    <file name="musewpslideshow.js" crc="480958572" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="184401257" ref="index"/>
+    <file name="touchswipe.js" crc="60020316" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="white_wall_hash_@2x.jpg" crc="406805750" ref="index"/>
+    <file name="apple-designer-desk-3911-u213-fr.png" crc="387140775" ref="index"/>
+    <file name="74h-u256-fr.png" crc="3820257172" ref="index"/>
+    <file name="stickman-310592_640.png" crc="255015362" ref="index"/>
+    <file name="angry-151791_640.png" crc="96982857" ref="index"/>
+    <file name="162h-u486-fr.png" crc="183705017" ref="index"/>
+    <file name="bricks-bridge-connect-3980-u494-fr.png" crc="4150416320" ref="index"/>
+    <file name="apple-apps-hand-3510-u502-fr.png" crc="195835516" ref="index"/>
+  </folder>
+  <file name="index.html" crc="121121549" mt="1421846521597" redirect="true"/>
+</manifest>
